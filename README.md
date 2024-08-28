@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @FelipeDiazR
-- 👀 I’m interested in IA & Financial analysit 
-- 🌱 I’m currently learning Generative AI 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m passionate about AI and financial analysis, and I’m on a journey to transform the food industry in Latin America.
+- 🌱 Currently learning all about Generative AI to push the boundaries of technology.
+- 💞️ Open to collaborating on innovative tech projects and exploring new AI applications.
+- 📫 Feel free to reach out to me at [your email or preferred contact method].
+- 😄 Pronouns: [your pronouns]
+- 🍽️ Fun fact: I love cooking and find inspiration in combining culinary arts with technology.
+- 🚀 Aspiration: My dream is to create a unicorn startup and revolutionize the food industry in Latin America.
 
 <!---
 FelipeDiazR/FelipeDiazR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
